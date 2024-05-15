@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 💬 Ask me about **GCP, AWS, Azure, Python, VueJS, Data Engineering and Analytics**
+- 💬 Ask me about **GCP, AWS, Azure, Python, ML, Gen AI, Data Engineering and Analytics**
 
 - 📫 How to reach me **rulisesmendoza@gmail.com**
 
