@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ulises Mendoza</h1>
 <h3 align="center">A passionate Software Engineer and Cloud & Data guy</h3>
 
-- 🔭 I’m currently working on **Cloud and Data Engineering**
+- 🔭 I’m currently working on **Cloud and Data Engineering and AI**
 
-- 🌱 I’m currently learning **Machine Learning for Cloud**
+- 🌱 I’m currently learning **Vision computing & Quantum Computing**
 
 - 👯 I’m looking to collaborate on **Cloud, Data and Machine Learning**
 
